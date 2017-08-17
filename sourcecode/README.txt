@@ -1,0 +1,1 @@
+# store development source of application include two main module: backend (api) + frontend (web app)

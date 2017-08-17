@@ -1,0 +1,1 @@
+# store layout / design of application
